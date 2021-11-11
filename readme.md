@@ -24,11 +24,6 @@ $ yarn OR npm i # To install the dependencies
 $ yarn dev OR npm run dev # To run the app
 ```
 
-To run the tests just type
-```bash
-$ test 
-```
-
 This challenge was provide by [Rocketseat](https://www.rocketseat.com.br/) 
 
 
